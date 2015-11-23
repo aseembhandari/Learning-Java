@@ -1,5 +1,8 @@
 package org.java.learning.numbers;
 
+/**
+ * This class checks whether number is even or odd.
+ * */
 public class EvenOdd {
 	public static void main(String[] args) {
 		int number = 10;
